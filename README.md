@@ -14,45 +14,39 @@
     <a href="[YOUTUBE_URL]"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" /></a>
     <a href="[TWITTER_URL]"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white&style=for-the-badge" /></a>
     <a href="[WEBSITE_URL]"><img src="https://img.shields.io/badge/Website-%23000000.svg?logo=rocket&logoColor=white&style=for-the-badge" /></a>
-    <a href="[MEDIUM_URL]"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white&style=for-the-badge" /></a>
   </p>
 </div>
 
 ---
 
 ## 🌌 About Me
-I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I have launched scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.
+**🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems** from Sylhet. I launch scalable platforms and viral YouTube Shorts into the digital cosmos while debugging XAMPP galaxies.
 
-- 🔭 **Current Mission:** Scaling e-commerce with PHP debugging & social media scripts
-- 🌱 **Learning:** Next.js for interstellar frontends, AI video prompts
-- 💬 **Ask me about:** PHP fixes, YouTube growth hacks, e-commerce product management
-- 📫 **Contact:** [YOUR_EMAIL] | Sylhet Division, BD
-
----
-
-## 🏆 Career Highlights & Impact
-| Achievement | Metric/Scale |
-| :--- | :--- |
-| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP |
-| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends |
-| **PHP Backend Debugging Mastery** | Fixed 500+ Errors for Local Hosts |
+- 🔭 **Current Mission:** PHP optimization + YouTube Shorts on tech trends
+- 🌱 **Learning:** Next.js + AI video prompts
+- 💬 **Ask me about:** PHP fixes, e-commerce scaling, viral content scripts
+- 📫 **Contact:** [YOUR_EMAIL]
 
 ---
 
-## 🎥 YouTube Achievements
-🚀 Launched 100+ Shorts on trending topics like US politics & tech hacks, blending humor with 3D animations for max virality.[cite:22]
+## ⚡ Fun Facts About My Journey
+📹 Created **[X]+ YouTube Shorts** in [YEAR] — averaging **[X] videos daily**!  
+🎬 Accumulated **[X]K views** and **[X]K hours** of watch time worldwide  
+💻 Built **[X]+ GitHub repos** with production-ready PHP/e-commerce code  
+🔧 Fixed **[X]+ PHP errors** across local XAMPP e-commerce platforms  
+🌍 Content reaches global audience from Sylhet, Bangladesh  
+🚀 Optimized e-commerce sites for **[X]% faster** load times  
+📈 YouTube growth: **[X]% MoM** subscriber gains in 2026  
 
-| Milestone | Stats |
-| :--- | :--- |
-| **Total Subscribers** | [e.g. 5K+] 🌟 |
-| **Total Views** | [e.g. 500K+] 📈 |
-| **Top Short: Insurrection Act Trend** | [e.g. 50K Views]([VIDEO_URL]) 🎬 |
-| **Avg Watch Time** | [e.g. 80%] ⏱️ |
-| **Growth Rate (2026)** | [e.g. 2x MoM] 🚀 |
+---
 
+## 📈 By the Numbers
 <div align="center">
-  <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Views-%23500K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+
+| **[X]K**<br>🌟 YouTube Views | **[X]K**<br>📊 Subscribers | **[X]+**<br>🎬 Videos Published |
+|:----------------------------:|:-------------------------:|:----------------------------:|
+| **[X]K**<br>⏱️ Watch Hours | **[X]+**<br>💻 GitHub Repos | **[X]%**<br>🚀 Site Speed Gain |
+
 </div>
 
 ---
@@ -61,17 +55,6 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs,mysql,docker,git,aws&perline=8" />
 </div>
-
----
-
-## 📊 Community & Content Influence
-> *“Code like a supernova: Bright, explosive, universe-changing.”*
-
-| Platform | Reach | Key Content |
-| :--- | :--- | :--- |
-| **YouTube** | [SUBS] Subs | [Insurrection Act Short]([VIDEO_URL]) |
-| **Technical Blog** | [READERS] Views | [PHP Debugging Guide]([URL]) |
-| **GitHub** | [REPOS] Projects | [E-commerce Scripts]([REPO_URL]) |
 
 ---
 
@@ -87,19 +70,12 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 
 ---
 
-## 🎓 Education & Certs
-- 🎓 **BSc Computer Science** — [University Name], Sylhet
-- 📜 **PHP Developer Cert** — [Issuing Org]
-- 📜 **AWS Cloud Practitioner** — Amazon Web Services
-
----
-
 ## 🤝 Launch Collaboration
-Open to cosmic partnerships in tech frontiers.
+Open to cosmic tech partnerships 🚀
 
-- 🎤 **Speaking:** Workshops on PHP orbits & content rockets
-- 👨‍🚀 **Mentoring:** Guiding devs through e-commerce black holes
-- 💼 **Consulting:** Backend audits for scalable galaxies
+- 🎤 **Speaking:** PHP workshops & content creation keynotes
+- 👨‍🚀 **Mentoring:** E-commerce debugging & YouTube growth
+- 💼 **Consulting:** XAMPP optimization for scalable platforms
 
 <p align="center">
   <a href="mailto:[YOUR_EMAIL]">
