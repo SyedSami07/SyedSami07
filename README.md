@@ -1,13 +1,16 @@
+# 🌌 Syed Sami
+<div align="center">
+  <img src="YOUR_PROFILE_PIC_URL" width="150" style="border-radius:50%; border:3px solid #36BCF7; box-shadow:0 0 25px #36BCF7;" alt="Syed Sami"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,5,8,1&height=200&section=header&text=[SYED%20SAMI]&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
 
+<div align="center">
   <h3> 🚀 Web Developer & E-commerce Specialist @ [YOUR COMPANY/INDEPENDENT] </h3>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌌+Coding+Through+the+Cosmos;PHP+Backend+Orbit+Expert;E-commerce+Galaxy+Builder;Viral+YouTube+Shorts+Launches" alt="Typing SVG" />
-
-  <p>
-    <b>🌍 Sylhet, Bangladesh • [X] Years in Orbit</b>
-  </p>
+  <p><b>🌍 Sylhet, Bangladesh • [X] Years in Orbit</b></p>
 
   <p>
     <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -21,28 +24,46 @@
 ---
 
 ## 🌌 About Me
-I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I have launched scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.[cite:20]
+I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I launch scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.
 
-- 🔭 **Current Mission:** Scaling e-commerce with PHP debugging & social media scripts
-- 🌱 **Learning:** Next.js for interstellar frontends, AI video prompts
-- 💬 **Ask me about:** PHP fixes, YouTube growth hacks, e-commerce product management
-- 📫 **Contact:** [YOUR_EMAIL] | Sylhet Division, BD
+- 🔭 **Current Mission:** Scaling e-commerce with PHP debugging & social media scripts  
+- 🌱 **Learning:** Next.js for interstellar frontends, AI video prompts  
+- 💬 **Ask me about:** PHP fixes, YouTube growth hacks, e-commerce product management  
+- 📫 **Contact:** [YOUR_EMAIL] | Sylhet Division, BD  
 
 ---
 
 ## 🏆 Career Highlights & Impact
 | Achievement | Metric/Scale |
 | :--- | :--- |
-| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP [web:20] |
-| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends [cite:21] |
+| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP |
+| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends |
 | **PHP Backend Debugging Mastery** | Fixed 500+ Errors for Local Hosts |
+
+---
+
+## 🎥 YouTube Achievements
+🚀 Launched 100+ Shorts on trending topics like US politics & tech hacks, blending humor with 3D animations for max virality.
+
+| Milestone | Stats |
+| :--- | :--- |
+| **Total Subscribers** | [e.g. 5K+] 🌟 |
+| **Total Views** | [e.g. 500K+] 📈 |
+| **Top Short** | [Insurrection Act Trend]([VIDEO_URL]) 🎬 |
+| **Avg Watch Time** | [e.g. 80%] ⏱️ |
+| **Growth Rate (2026)** | [e.g. 2x MoM] 🚀 |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Views-%23500K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div>
 
 ---
 
 ## 🛠️ Tech Stack (Galactic Edition)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs,mysql,docker,git,aws&perline=8" />
-</div>[web:17]
+</div>
 
 ---
 
@@ -51,7 +72,7 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 
 | Platform | Reach | Key Content |
 | :--- | :--- | :--- |
-| **YouTube** | [SUBS] Subs | [Tech Trends Short]([VIDEO_URL]) |
+| **YouTube** | [SUBS] Subs | [Insurrection Act Short]([VIDEO_URL]) |
 | **Technical Blog** | [READERS] Views | [PHP Debugging Guide]([URL]) |
 | **GitHub** | [REPOS] Projects | [E-commerce Scripts]([REPO_URL]) |
 
@@ -61,27 +82,25 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USER]&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USER]&theme=tokyonight&hide_border=true" />
-</div>[web:1]
+</div>
 
 ---
 
-## 🎓 Education & Certs
-- 🎓 **BSc Computer Science** — [University Name], Sylhet
-- 📜 **PHP Developer Cert** — [Issuing Org]
-- 📜 **AWS Cloud Practitioner** — Amazon Web Services
+## 🎓 Education & Certifications
+- 🎓 **BSc Computer Science** — [University Name], Sylhet  
+- 📜 **PHP Developer Cert** — [Issuing Org]  
+- 📜 **AWS Cloud Practitioner** — Amazon Web Services  
 
 ---
 
 ## 🤝 Launch Collaboration
 Open to cosmic partnerships in tech frontiers.
 
-- 🎤 **Speaking:** Workshops on PHP orbits & content rockets
-- 👨‍🚀 **Mentoring:** Guiding devs through e-commerce black holes
-- 💼 **Consulting:** Backend audits for scalable galaxies
+- 🎤 **Speaking:** Workshops on PHP orbits & content rockets  
+- 👨‍🚀 **Mentoring:** Guiding devs through e-commerce black holes  
+- 💼 **Consulting:** Backend audits for scalable galaxies  
 
 <p align="center">
   <a href="mailto:[YOUR_EMAIL]">
