@@ -21,7 +21,7 @@
 ---
 
 ## 🌌 About Me
-I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I have launched scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.[cite:20]
+I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I have launched scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.
 
 - 🔭 **Current Mission:** Scaling e-commerce with PHP debugging & social media scripts
 - 🌱 **Learning:** Next.js for interstellar frontends, AI video prompts
@@ -33,16 +33,34 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 ## 🏆 Career Highlights & Impact
 | Achievement | Metric/Scale |
 | :--- | :--- |
-| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP [web:20] |
-| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends [cite:21] |
+| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP |
+| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends |
 | **PHP Backend Debugging Mastery** | Fixed 500+ Errors for Local Hosts |
+
+---
+
+## 🎥 YouTube Achievements
+🚀 Launched 100+ Shorts on trending topics like US politics & tech hacks, blending humor with 3D animations for max virality.[cite:22]
+
+| Milestone | Stats |
+| :--- | :--- |
+| **Total Subscribers** | [e.g. 5K+] 🌟 |
+| **Total Views** | [e.g. 500K+] 📈 |
+| **Top Short: Insurrection Act Trend** | [e.g. 50K Views]([VIDEO_URL]) 🎬 |
+| **Avg Watch Time** | [e.g. 80%] ⏱️ |
+| **Growth Rate (2026)** | [e.g. 2x MoM] 🚀 |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Views-%23500K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div>
 
 ---
 
 ## 🛠️ Tech Stack (Galactic Edition)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs,mysql,docker,git,aws&perline=8" />
-</div>[web:17]
+</div>
 
 ---
 
@@ -51,7 +69,7 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 
 | Platform | Reach | Key Content |
 | :--- | :--- | :--- |
-| **YouTube** | [SUBS] Subs | [Tech Trends Short]([VIDEO_URL]) |
+| **YouTube** | [SUBS] Subs | [Insurrection Act Short]([VIDEO_URL]) |
 | **Technical Blog** | [READERS] Views | [PHP Debugging Guide]([URL]) |
 | **GitHub** | [REPOS] Projects | [E-commerce Scripts]([REPO_URL]) |
 
@@ -65,7 +83,7 @@ I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-comme
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USER]&theme=tokyonight&hide_border=true" />
-</div>[web:1]
+</div>
 
 ---
 
