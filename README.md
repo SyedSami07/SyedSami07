@@ -79,10 +79,10 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 </div>
 
 ### Education
-- **BSc in Computer Science** — North East University, Bangladesh
+- **BSc in Computer Science & Engineering** — North East University, Bangladesh.
 
 ### Certifications
-- Python & Django Web Development — Udemy  
+- Python & Django Web Development — Udemy
 - JavaScript, Bootstrap & PHP — Udemy  
 - Full Stack Web Development — Interactive Cares  
 
@@ -94,7 +94,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 ## 🛠️ Tech Stack (Galactic Edition)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nextjs,nodejs,mysql,docker,git,aws,figma,ps,ae&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c++,php,js,html,css,react,nodejs,mysql,postgress,git,ps,ae&perline=8" />
 </div>
 
 ---
