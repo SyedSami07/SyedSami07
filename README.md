@@ -49,13 +49,23 @@ Experienced in video editing, creating engaging content for social media, market
 
 ---
 
-## YouTube Achievements
-   Launched 1000+ videos on multiple channels.
+| Milestone | Stats |
+| :--- | :--- |
+| **Silver Play Button Award** | [e.g. 355K+] |
+| **Total Subscribers** | [e.g. 355K+] |
+| **Total Views** | [e.g. 30M+] |
+
+
+## 🎬 YouTube Achievements
+Launched 1000+ videos across multiple YouTube channels, focusing on tech and animation.
 
 | Milestone | Stats |
 | :--- | :--- |
-| **Total Subscribers** | [e.g. 355K+] |
-| **Total Views** | [e.g. 30M+] |
+| **Silver Play Button Award** | 100K+ Subscribers Milestone |
+| **Total Subscribers (All Channels)** | 355K+ |
+| **Total Videos Published** | 1000+ |
+| **Content Reach** | 30M+ |
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
