@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&section=header&text=SYED%20SAMI&fontSize=70&animation=fadeIn&fontColor=C0C0C0&fontAlign=50&fontWeight=700&fontFamily=monospace&background=stars" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&section=header&text=SYED%20SAMI&fontSize=80&animation=fadeIn&fontColor=C0C0C0&fontAlign=50&fontWeight=700&fontFamily=monospace&background=stars&curve=0.5" width="100%" />
   
 
   <h3 align="center" style="margin-top: 15px;"> Research-Focused Engineer (ML/DL) | Full Stack Developer | Video Editor </h3>
