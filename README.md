@@ -64,10 +64,10 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 | **Total Videos Published** | 1000+ |
 | **Content Reach** | 30M+ |
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Views-%23500K%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-355K%2B%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Views-30M%2B-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Award-Silver%20Play%20Button-C0C0C0?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 
 ---
