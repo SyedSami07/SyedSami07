@@ -108,5 +108,9 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=100&section=footer&animation=fadeIn" width="100%" />
-  <sub>🌟 Profile views: <img src="https://komarev.com/ghpvc/?username=[SyedSami07]&color=36BCF7&style=flat-square" align="center" /> | Last Updated: February 2026</sub>
+  <sub>
+    🌟 Profile views: 
+    <img src="https://komarev.com/ghpvc/?username=SyedSami07&color=36BCF7&style=flat-square" align="center" /> 
+    | Last Updated: February 2026
+  </sub>
 </div>
