@@ -78,7 +78,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
   <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-Interactive%20Cares-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </div>
 
-### 🎓 Education
+### Education
 - **BSc in Computer Science** — North East University, Bangladesh
 
 ### Certifications
