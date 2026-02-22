@@ -79,14 +79,14 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 </div>
 
 ### 🎓 Education
-- **BSc in Computer Science** — North East University, Bangladesh (Sylhet)
+- **BSc in Computer Science** — North East University, Bangladesh
 
-### 📜 Certifications
+### Certifications
 - Python & Django Web Development — Udemy  
 - JavaScript, Bootstrap & PHP — Udemy  
 - Full Stack Web Development — Interactive Cares  
 
-### 🏆 Activities & Leadership
+### Activities & Leadership
 - Volunteer — NEUB ICT FEST 2025  
 - Executive Member — NEUB CSE Society
 
