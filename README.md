@@ -106,12 +106,11 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 </div>
 
 
-
-<div align="center" style="background-color:#000000; padding:15px; border-radius:10px;">
-  <sub style="font-family: monospace; color:#00FF00;">
-    ┌─[🌐 GitHub Profile]──────────────────────┐<br>
-    │ Profile views: <img src="https://komarev.com/ghpvc/?username=SyedSami07&color=00FF00&style=flat-square" align="center" /> │<br>
-    │ Last Updated: February 2026             │<br>
-    └────────────────────────────────────────┘
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&animation=fadeIn" width="100%" />
+  <sub style="color:#C0C0C0; font-family: monospace;">
+    🌟 Profile views: 
+    <img src="https://komarev.com/ghpvc/?username=SyedSami07&color=36BCF7&style=flat-square" align="center" /> 
+    | Last Updated: February 2026
   </sub>
 </div>
