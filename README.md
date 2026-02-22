@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Type+Type+Type+Until+It+Creates+A+Hype;Backend+Expert;YouTube+Content+Creator" alt="Typing SVG" />
 </div>
   
-  <p><b>🌍 Sylhet, Bangladesh</b></p>
+  <p><b>Sylhet, Bangladesh</b></p>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/syed-salman-sami-141124294/">
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌌 About Me
+## About Me
 I am pursuing a Bachelor of Science degree in Computer Science & Engineering at North East University Bangladesh. I love exploring new tech to get better at what I do. I might not have tons of work experience yet, but I am constantly seeking out new technology to enhance my abilities. 
 Strong foundation in core programming, DSA, OOP, DBMS, OS, and Software Engineering, with practical experience in full-stack development and AI/ML projects.
 
@@ -49,14 +49,13 @@ Experienced in video editing, creating engaging content for social media, market
 
 ---
 
-## 🎥 YouTube Achievements
-🚀 Launched 100+ Shorts on trending topics, blending humor with 3D animations for max virality.
+## YouTube Achievements
+   Launched 1000+ videos on multiple channels.
 
 | Milestone | Stats |
 | :--- | :--- |
-| **Total Subscribers** | [e.g. 5K+] 🌟 |
-| **Total Views** | [e.g. 500K+] 📈 |
-| **Growth Rate (2026)** | 2x MoM 🚀 |
+| **Total Subscribers** | [e.g. 355K+] 🌟 |
+| **Total Views** | [e.g. 30M+] 📈 |
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -65,7 +64,7 @@ Experienced in video editing, creating engaging content for social media, market
 
 ---
 
-## 📜 Stellar Certifications
+## Certifications
 <div align="left">
   <a href="[VERIFICATION_URL]">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
