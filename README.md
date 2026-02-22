@@ -106,22 +106,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 
 
-## 🤝 Launch Collaboration
-Open to cosmic partnerships in tech frontiers.
-
-- 🎤 **Speaking:** Workshops on PHP orbits & content rockets  
-- 👨‍🚀 **Mentoring:** Guiding devs through e-commerce black holes  
-- 💼 **Consulting:** Backend audits for scalable galaxies  
-
-<p align="center">
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Launch%20Comms-Email%20Warp-36BCF7?style=for-the-badge&logo=rocket&logoColor=white">
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=100&section=footer&animation=fadeIn" width="100%" />
-  <sub>🌟 Profile views: <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USER]&color=36BCF7&style=flat-square" align="center" /> | Last Updated: February 2026</sub>
+  <sub>🌟 Profile views: <img src="https://komarev.com/ghpvc/?username=[SyedSami07]&color=36BCF7&style=flat-square" align="center" /> | Last Updated: February 2026</sub>
 </div>
