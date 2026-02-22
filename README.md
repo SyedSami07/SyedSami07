@@ -34,6 +34,7 @@
 ## 🌌 About Me
 I am pursuing a Bachelor of Science degree in Computer Science & Engineering at North East University Bangladesh. I love exploring new tech to get better at what I do. I might not have tons of work experience yet, but I am constantly seeking out new technology to enhance my abilities. 
 Strong foundation in core programming, DSA, OOP, DBMS, OS, and Software Engineering, with practical experience in full-stack development and AI/ML projects.
+
 Experienced in video editing, creating engaging content for social media, marketing campaigns, and digital platforms using advanced editing techniques, transitions, and storytelling.
 
 ---
