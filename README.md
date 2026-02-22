@@ -16,15 +16,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://leetcode.com/[syedsami]/">
+  <a href="https://leetcode.com/syedsami/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="https://www.codechef.com/users/[salmansami]">
+  <a href="https://www.codechef.com/users/salmansami">
     <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://vjudge.net/user/[salmansami]">
+  <a href="https://vjudge.net/user/salmansami">
     <img src="https://img.shields.io/badge/VJudge-%23000000.svg?logo=vjudge&logoColor=white&style=for-the-badge" />
   </a>
 </p>
