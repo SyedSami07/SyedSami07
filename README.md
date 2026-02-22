@@ -100,17 +100,6 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 ---
 ## 📈 GitHub Galaxy Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        
-      </td>
-      <!-- Top languages without icons -->
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSami07&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" />
-      </td>
-    </tr>
-  </table>
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSami07&theme=tokyonight&hide_border=true&stroke=36BCF7&fire=36BCF7" width="100%" />
 </div>
