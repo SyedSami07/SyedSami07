@@ -102,9 +102,8 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 <div align="center">
   <table border="0">
     <tr>
-      <!-- GitHub contribution & commit stats without icons -->
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedSami07&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=36BCF7" />
+        
       </td>
       <!-- Top languages without icons -->
       <td>
