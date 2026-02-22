@@ -95,9 +95,6 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,react,nodejs,mysql,postgres,git,postman,vscode,jupyter,googlecolab&perline=8" />
-  <br />
-  <strong>AI Tools & LLMs:</strong>
-  <img src="https://skillicons.dev/icons?i=openai,anthropic,perplexity,lovable&perline=4" />
 </div>
 
 ---
