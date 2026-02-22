@@ -10,12 +10,19 @@
   
   <p><b>🌍 Sylhet, Bangladesh • [X] Years in Orbit</b></p>
 
-  <p>
-    <a href="[LINKEDIN_URL]"><img src="https://www.linkedin.com/in/syed-salman-sami-141124294/" /></a>
-    <a href="[YOUTUBE_URL]"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-    <a href="[TWITTER_URL]"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white&style=for-the-badge" /></a>
-    <a href="[WEBSITE_URL]"><img src="https://img.shields.io/badge/Website-%23000000.svg?logo=rocket&logoColor=white&style=for-the-badge" /></a>
-  </p>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/syed-salman-sami-141124294/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://leetcode.com/[YOUR_LEETCODE_USERNAME]/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://vjudge.net/user/[YOUR_VJUDGE_USERNAME]">
+    <img src="https://img.shields.io/badge/VJudge-%23000000.svg?logo=codeforces&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 </div>
 
 ---
