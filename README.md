@@ -54,8 +54,8 @@ Experienced in video editing, creating engaging content for social media, market
 
 | Milestone | Stats |
 | :--- | :--- |
-| **Total Subscribers** | [e.g. 355K+] 🌟 |
-| **Total Views** | [e.g. 30M+] 📈 |
+| **Total Subscribers** | [e.g. 355K+] |
+| **Total Views** | [e.g. 30M+] |
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-%235K%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
