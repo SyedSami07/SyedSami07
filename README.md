@@ -1,20 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?
-type=wave
-&color=000000
-&height=250
-&section=header
-&text=SYED%20SAMI
-&fontSize=70
-&fontColor=C0C0C0
-&fontAlign=50
-&fontWeight=700
-&fontFamily=monospace
-&animation=fadeIn
-&background=stars
-&image=https://raw.githubusercontent.com/SyedSami07/SyedSami07/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png
-&imageAlign=right
-&imageWidth=150" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SyedSami07/SyedSami07/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="SYED SAMI Banner" width="100%" />
+</div>
 
   <h3 align="center" style="margin-top: 15px;"> Research-Focused Engineer (ML/DL) | Full Stack Developer | Video Editor </h3>
   
