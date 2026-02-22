@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?
 type=wave
 &color=000000
-&height=300
+&height=250
 &section=header
 &text=SYED%20SAMI
-&fontSize=80
+&fontSize=70
 &fontColor=C0C0C0
 &fontAlign=50
 &fontWeight=700
@@ -14,9 +14,7 @@ type=wave
 &background=stars
 &image=https://raw.githubusercontent.com/SyedSami07/SyedSami07/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png
 &imageAlign=right
-&imageWidth=300
-" width="100%" />
-  
+&imageWidth=150" width="100%" />
 
   <h3 align="center" style="margin-top: 15px;"> Research-Focused Engineer (ML/DL) | Full Stack Developer | Video Editor </h3>
   
