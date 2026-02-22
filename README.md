@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Type+Type+Type+Until+It+Creates+A+Hype;Backend+Expert;YouTube+Content+Creator" alt="Typing SVG" />
 </div>
   
-  <p><b>🌍 Sylhet, Bangladesh • [X] Years in Orbit</b></p>
+  <p><b>🌍 Sylhet, Bangladesh</b></p>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/syed-salman-sami-141124294/">
@@ -32,12 +32,13 @@
 ---
 
 ## 🌌 About Me
-I am a **🚀 Full-Stack Web Developer** specializing in **PHP Backend & E-commerce Systems**. With over **[X] years of experience**, I launch scalable platforms and viral content into the digital cosmos. Currently, I'm orbiting **YouTube Shorts on Tech Trends** while optimizing XAMPP-hosted e-commerce galaxies for global reach.
+I am pursuing a Bachelor of Science degree in Computer Science & Engineering at North East University Bangladesh
 
-- 🔭 **Current Mission:** Scaling e-commerce with PHP debugging & social media scripts  
-- 🌱 **Learning:** Next.js for interstellar frontends, AI video prompts  
-- 💬 **Ask me about:** PHP fixes, YouTube growth hacks, e-commerce product management  
-- 📫 **Contact:** [YOUR_EMAIL] | Sylhet Division, BD  
+I love exploring new tech to get better at what I do. I might not have tons of work experience yet, but I am constantly seeking out new technology to enhance my abilities.
+
+Strong foundation in core programming, DSA, OOP, DBMS, OS, and Software Engineering, with practical experience in full-stack development and AI/ML projects.
+
+Experienced in video editing, creating engaging content for social media, marketing campaigns, and digital platforms using advanced editing techniques, transitions, and storytelling.
 
 ---
 
