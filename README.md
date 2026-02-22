@@ -42,9 +42,10 @@ Experienced in video editing, creating engaging content for social media, market
 ## 🏆 Career Highlights & Impact
 | Achievement | Metric/Scale |
 | :--- | :--- |
-| **E-commerce Platform Optimization** | 10x Faster Loads on XAMPP |
-| **Viral YouTube Shorts Scripts** | 100k+ Views on Tech Trends |
-| **PHP Backend Debugging Mastery** | Fixed 500+ Errors for Local Hosts |
+| **YouTube Silver Play Button Award** | Multiple 100K+ Subscribers on YouTube |
+| **AI-Driven E-commerce Ecosystem** | Intelligent Full-Stack Platform |
+| **Backend Debugging & Optimization** | PHP, MySQL & System-Level Fixes |
+| **Professional Video Editing & Content Creation** | Viral Shorts & Client Projects |
 
 ---
 
