@@ -4,7 +4,9 @@
 
   <h3 align="center" style="margin-top: 15px;"> 🚀 Research-Focused Engineer (ML/DL) | Full Stack Developer | Video Editor </h3>
   
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌌+Coding+Through+the+Cosmos;PHP+Backend+Orbit+Expert;E-commerce+Galaxy+Builder;Viral+YouTube+Shorts+Launches" alt="Typing SVG" />
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌌+Type+Type+Type+Until+It+Creates+A+Hype;Backend+Expert;YouTube+Content+Creator" alt="Typing SVG" />
+</div>
   
   <p><b>🌍 Sylhet, Bangladesh • [X] Years in Orbit</b></p>
 
