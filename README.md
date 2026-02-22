@@ -47,6 +47,11 @@ Experienced in video editing, creating engaging content for social media, market
 | **Backend Debugging & Optimization** | PHP, MySQL & System-Level Fixes |
 | **Professional Video Editing & Content Creation** | Viral Shorts & Client Projects |
 
+## 📄 Research & Publications
+- **Title:** SouthAsian-Influencer-Deepfake-Detection-in-High-Motion
+- **Status:** Research in Progress (Unpublished)  
+- **Focus Areas:** Deep Learning, Trending Reels/Shorts
+
 ---
 
 ## 🎬 YouTube Achievements
