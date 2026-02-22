@@ -92,9 +92,9 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 ---
 
-## 🛠️ Tech Stack (Galactic Edition)
+## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,php,js,html,css,react,nodejs,mysql,postgress,git,ps,ae&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,react,nodejs,mysql,postgres,git&perline=8" />
 </div>
 
 ---
