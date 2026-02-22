@@ -49,13 +49,6 @@ Experienced in video editing, creating engaging content for social media, market
 
 ---
 
-| Milestone | Stats |
-| :--- | :--- |
-| **Silver Play Button Award** | [e.g. 355K+] |
-| **Total Subscribers** | [e.g. 355K+] |
-| **Total Views** | [e.g. 30M+] |
-
-
 ## 🎬 YouTube Achievements
 Launched 1000+ videos across multiple YouTube channels, focusing on tech and animation.
 
