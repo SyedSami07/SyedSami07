@@ -99,25 +99,6 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 ---
 
-## 📈 GitHub Galaxy Stats
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- GitHub contribution & commit stats -->
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=36BCF7" />
-      </td>
-      <!-- Top languages -->
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" />
-      </td>
-    </tr>
-  </table>
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=36BCF7&fire=36BCF7" width="100%" />
-</div>
-
----
 
 ## 🤝 Launch Collaboration
 Open to cosmic partnerships in tech frontiers.
