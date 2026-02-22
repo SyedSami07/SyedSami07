@@ -43,7 +43,7 @@ Experienced in video editing, creating engaging content for social media, market
 | Achievement | Metric/Scale |
 | :--- | :--- |
 | **YouTube Silver Play Button Award** | Multiple 100K+ Subscribers on YouTube |
-| **AI-Driven E-commerce Ecosystem** | Intelligent Full-Stack Platform |
+| **AI-Driven E-commerce Ecosystem** | Intelligent Full-Stack Platform With ML and DL Approach |
 | **Backend Debugging & Optimization** | PHP, MySQL & System-Level Fixes |
 | **Professional Video Editing & Content Creation** | Viral Shorts & Client Projects |
 
