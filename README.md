@@ -71,22 +71,24 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 ---
 
-## Certifications
+## 📜 Certifications & Education
 <div align="left">
-  <a href="[VERIFICATION_URL]">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="[VERIFICATION_URL]">
-    <img src="https://img.shields.io/badge/PHP-Expert%20Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
-  <a href="[VERIFICATION_URL]">
-    <img src="https://img.shields.io/badge/Google-Digital%20Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python%20%26%20Django-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%2C%20Bootstrap%20%26%20PHP-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-Interactive%20Cares-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </div>
 
-* 🎓 **BSc in Computer Science** — [University Name], Sylhet  
-* 📜 **Full Stack Web Development** — [Issuing Org]  
-* 📜 **Advanced E-commerce Management** — [Issuing Org]
+### 🎓 Education
+- **BSc in Computer Science** — North East University, Bangladesh (Sylhet)
+
+### 📜 Certifications
+- Python & Django Web Development — Udemy  
+- JavaScript, Bootstrap & PHP — Udemy  
+- Full Stack Web Development — Interactive Cares  
+
+### 🏆 Activities & Leadership
+- Volunteer — NEUB ICT FEST 2025  
+- Executive Member — NEUB CSE Society
 
 ---
 
