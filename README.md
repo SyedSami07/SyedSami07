@@ -51,7 +51,7 @@ Experienced in video editing, creating engaging content for social media, market
 ## 📄 Research & Publications
 - **Title:** SouthAsian-Influencer-Deepfake-Detection-in-High-Motion
 - **Status:** Research in Progress (Unpublished)  
-- **Focus Areas:** Deep Learning, Trending Reels/Shorts
+- **Focus Areas:** Deep Learning, Trending Reels/Shorts.
 
 ---
 
