@@ -54,7 +54,7 @@ Experienced in video editing, creating engaging content for social media, market
 - **Focus Areas:** Deep Learning, Trending Reels/Shorts.
 
 ---
-
+.
 ## 🎬 YouTube Achievements
 Launched 1000+ videos across multiple YouTube channels, focusing on tech and animation.
 
