@@ -82,8 +82,8 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 ### Education
 - **BSc in Computer Science & Engineering** — North East University, Bangladesh.
 
-### Certifications
-- Python & Django Web Development — Udemy
+### Certifications.
+- PythoCertificationsu Development — Udemy
 - JavaScript, Bootstrap & PHP — Udemy  
 - Full Stack Web Development — Interactive Cares  
 
