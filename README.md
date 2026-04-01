@@ -1,4 +1,4 @@
-<div align="center">
+.<div align="center">
 <div align="center">
   <img src="https://raw.githubusercontent.com/SyedSami07/SyedSami07/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="SYED SAMI Banner" width="100%" />
 </div>
