@@ -30,7 +30,7 @@
 </p>
 </div>
 
----
+---.
 
 ## About Me
 I am pursuing a Bachelor of Science degree in Computer Science & Engineering at North East University Bangladesh. I love exploring new tech to get better at what I do. I might not have tons of work experience yet, but I am constantly seeking out new technology to enhance my abilities. 
