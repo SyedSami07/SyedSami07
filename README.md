@@ -88,7 +88,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 - Full Stack Web Development — Interactive Cares  
 
 ### Activities & Leadership
-- Volunteer — NEUB ICT FEST 2025 . 
+- Volunteer — NEUB ICT FEST 2025
 - Executive Member — NEUB CSE Society
 
 ---
