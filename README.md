@@ -89,7 +89,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 
 ### Activities & Leadership
 - Volunteer — NEUB ICT FEST 2025
-- Executive Member — NEUB CSE Society.
+- Executive Member — NEUB CSE Society
 
 ---
 
