@@ -61,7 +61,7 @@ Launched 1000+ videos across multiple YouTube channels, focusing on tech and ani
 | Milestone | Stats |
 | :--- | :--- |
 | **Silver Play Button Award** | 100K+ Subscribers Milestone |
-| **Total Subscribers (All Channels)** | 355K+ |.
+| **Total Subscribers (All Channels)** | 355K+ |
 | **Total Videos Published** | 1000+. |
 | **Content Reach** | 30M+ |
 
